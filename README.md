@@ -1,19 +1,10 @@
-### Hi there 👋, I am Ahmed Hajiyev
+https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
 #### I am Back-End Developer
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHajiyev&theme=dark&show_icons=true)
 Skills: HTML / CSS / C# / PYTHON 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/AhmedHajiyev/ahmedhajiyev.github.io)
 
-const { Contributions } = require('contributions')
-
-const contributions = await Contributions.forUser('ethomson');
-const days = contributions.getDays();
-
-for (let day of days) {
-    console.log(`${day.getDate()}: ${day.getIntensity()}`);
-}
 
 
 
