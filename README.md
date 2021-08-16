@@ -6,6 +6,14 @@
 Skills: HTML / CSS / C# / PYTHON 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/AhmedHajiyev/ahmedhajiyev.github.io)
 
+const { Contributions } = require('contributions')
+
+const contributions = await Contributions.forUser('ethomson');
+const days = contributions.getDays();
+
+for (let day of days) {
+    console.log(`${day.getDate()}: ${day.getIntensity()}`);
+}
 
 
 
