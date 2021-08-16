@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
+![banner](https://user-images.githubusercontent.com/80597076/129627116-d5307881-2eb3-4453-ab99-1c4fc00d9718.png)
 #### I am Back-End Developer
 
 
