@@ -5,24 +5,21 @@
   <tr>
     <td valign="top" width="50%">-->
 
-  ### Frontend  
+  ### Front-End  
   <div align="center">  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" height="40" />  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" height="40" />  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="JQuery" height="40" />  
-  </div>
-  </td>
   
 <!--<td valign="top" width=50%">-->
 
-  ### Backend  
-  <div align="center">  
+  ### Back-End  
+
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Java" height="40" />  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Spring" height="40" />  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
                                                                                                                                     
-  </div>
   <!--</td>
 </table> --> 
 
