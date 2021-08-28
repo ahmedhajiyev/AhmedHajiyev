@@ -1,9 +1,9 @@
 <div align="center">
   
 ## My Skill Set  
-<table>
+<!--<table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%">-->
 
   ### Frontend  
   <div align="center">  
@@ -14,17 +14,17 @@
   </div>
   </td>
   
-<td valign="top" width=50%">
+<!--<td valign="top" width=50%">-->
 
   ### Backend  
   <div align="center">  
-    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Java" height="80" />  
-    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Spring" height="80" />  
-    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="80" />
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Java" height="40" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Spring" height="40" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
                                                                                                                                     
   </div>
-  </td>
-</table>  
+  <!--</td>
+</table> --> 
 
 </div>  
 
