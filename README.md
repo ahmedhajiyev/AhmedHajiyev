@@ -1,6 +1,6 @@
 ## Hi, I'm Ahmed Hajiyev 💻
 
-## Skill
+<!-- ## Skill
 
  ###  Front-End
 
@@ -26,7 +26,7 @@
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="40" />
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" height="40" />
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" height="40" />
- 
+  -->
  
                                                                                                                                     
 
